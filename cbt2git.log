@@ -1,14 +1,14 @@
-2025-04-15 02:02:12.266252 - Received CBT.V508.FILE391.PDS from FILE391.XMI 
-2025-04-15 02:02:12.267629 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE391.PDS, moved to PDS/$$$#DATE
-2025-04-15 02:02:12.267930 - Found $$NOTE.txt (text/plain) in CBT.V508.FILE391.PDS, moved to PDS/$$NOTE
-2025-04-15 02:02:12.268218 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE391.PDS, moved to PDS/$$NOTE1
-2025-04-15 02:02:12.268639 - Found $DOCTRAC.txt (text/plain) in CBT.V508.FILE391.PDS, moved to PDS/$DOCTRAC
-2025-04-15 02:02:12.268957 - Found $EXTRACE.xmi (application/xmit) in CBT.V508.FILE391.PDS, moved to PDS/$EXTRACE.xmi
-2025-04-15 02:02:12.277777 - Received SBGOLOB.$EXTRACE.TXT from $EXTRACE.xmi 
-2025-04-15 02:02:12.278153 - Found SBGOLOB.$EXTRACE.TXT.txt (text/plain), moved to $EXTRACE/SBGOLOB.$EXTRACE.TXT
-2025-04-15 02:02:12.278825 - Found $TRACDOC.doc (application/msword) in CBT.V508.FILE391.PDS, moved to docs/$TRACDOC.doc
-2025-04-15 02:02:12.278998 - Found @FILE391.txt (text/plain) in CBT.V508.FILE391.PDS, moved to PDS/@FILE391
-2025-04-15 02:02:12.279176 - Found TRACE.txt (text/plain) in CBT.V508.FILE391.PDS, moved to PDS/TRACE
-2025-04-15 02:02:12.280277 - Found TRACE390.txt (text/plain) in CBT.V508.FILE391.PDS, moved to PDS/TRACE390
-2025-04-15 02:02:12.280598 - Found TRCFLAGS.txt (text/plain) in CBT.V508.FILE391.PDS, moved to PDS/TRCFLAGS
-2025-04-15 02:02:12.280908 - Found TRCTBLS.txt (text/plain) in CBT.V508.FILE391.PDS, moved to PDS/TRCTBLS
+2025-04-15 20:52:05.733903 - Received CBT.V508.FILE391.PDS from FILE391.XMI 
+2025-04-15 20:52:05.735371 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE391.PDS, moved to PDS/$$$#DATE
+2025-04-15 20:52:05.735728 - Found $$NOTE.txt (text/plain) in CBT.V508.FILE391.PDS, moved to PDS/$$NOTE
+2025-04-15 20:52:05.736099 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE391.PDS, moved to PDS/$$NOTE1
+2025-04-15 20:52:05.736601 - Found $DOCTRAC.txt (text/plain) in CBT.V508.FILE391.PDS, moved to PDS/$DOCTRAC
+2025-04-15 20:52:05.736977 - Found $EXTRACE.xmi (application/xmit) in CBT.V508.FILE391.PDS, moved to PDS/$EXTRACE.xmi
+2025-04-15 20:52:05.747632 - Received SBGOLOB.$EXTRACE.TXT from $EXTRACE.xmi 
+2025-04-15 20:52:05.748142 - Found SBGOLOB.$EXTRACE.TXT.txt (text/plain), moved to $EXTRACE/SBGOLOB.$EXTRACE.TXT
+2025-04-15 20:52:05.748954 - Found $TRACDOC.doc (application/msword) in CBT.V508.FILE391.PDS, moved to docs/$TRACDOC.doc
+2025-04-15 20:52:05.749016 - Found @FILE391.txt (text/plain) in CBT.V508.FILE391.PDS, moved to PDS/@FILE391
+2025-04-15 20:52:05.749377 - Found TRACE.txt (text/plain) in CBT.V508.FILE391.PDS, moved to PDS/TRACE
+2025-04-15 20:52:05.751243 - Found TRACE390.txt (text/plain) in CBT.V508.FILE391.PDS, moved to PDS/TRACE390
+2025-04-15 20:52:05.751597 - Found TRCFLAGS.txt (text/plain) in CBT.V508.FILE391.PDS, moved to PDS/TRCFLAGS
+2025-04-15 20:52:05.751937 - Found TRCTBLS.txt (text/plain) in CBT.V508.FILE391.PDS, moved to PDS/TRCTBLS
